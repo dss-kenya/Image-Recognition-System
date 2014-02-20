@@ -13,3 +13,5 @@ Image-Recognition-System
  [5] http://sudokugrab.blogspot.in/2009/07/how-does-it-all-work.html
  
  [6] https://reference.wolfram.com/mathematica/ref/ExampleData.html
+ 
+ [7] http://www.codeproject.com/Articles/317163/OCR-with-LEADTOOLS-The-Better-Choice
