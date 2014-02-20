@@ -11,3 +11,5 @@ Image-Recognition-System
  [4] http://www.iis.sinica.edu.tw/JISE/2001/200109_01.pdf
  
  [5] http://sudokugrab.blogspot.in/2009/07/how-does-it-all-work.html
+ 
+ [6] https://reference.wolfram.com/mathematica/ref/ExampleData.html
