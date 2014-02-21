@@ -15,3 +15,5 @@ Image-Recognition-System
  [6] https://reference.wolfram.com/mathematica/ref/ExampleData.html
  
  [7] http://www.codeproject.com/Articles/317163/OCR-with-LEADTOOLS-The-Better-Choice
+ 
+ [8] http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
