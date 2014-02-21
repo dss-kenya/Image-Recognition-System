@@ -17,3 +17,5 @@ Image-Recognition-System
  [7] http://www.codeproject.com/Articles/317163/OCR-with-LEADTOOLS-The-Better-Choice
  
  [8] http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
+ 
+ [9] http://gaut.am/making-an-ocr-android-app-using-tesseract/
